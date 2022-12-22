@@ -28,7 +28,7 @@
     "concurrently": "^3.6.1",
     "core-js": "^2.5.7",
     "express": "^4.16.3",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "jwt-decode": "^2.2.0",
     "mongoose": "^5.2.7",
     "ng2-search-filter": "^0.5.1",
